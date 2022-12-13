@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Biedrzyk/Drugi-test/issues"
   },
-  "homepage": "https://github.com/Biedrzyk/Drugi-test#readme"
+  "homepage": "https://github.com/Biedrzyk/Drugi-test#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
 }
