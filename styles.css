@@ -1,5 +1,6 @@
 h1 {
-    color: red;
+    color: #c23616;
+    background-color: #e1b12c;
     border: 2px solid #ccc;
     width: 500px;
     margin: 0 auto;
@@ -14,3 +15,25 @@ h1 {
     margin: 0 auto;
     text-align: center;
 }
+
+nav {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+ol {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
